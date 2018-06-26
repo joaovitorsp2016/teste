@@ -1,0 +1,2213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/disney.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney XD HD">
+    <display-name lang="pt">Disney XD HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Nick HD">
+    <display-name lang="pt">Nick HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/nick.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT SP HD">
+    <display-name lang="pt">SBT SP HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbtinterior.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20180625000000 -0300" stop="20180625002900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Z Kai: Ideia Genial de Dai Kaioshin Goku Volta a Viver 1ª</title>
+    <desc lang="pt">A luta de Gohan contra Buu continua, mas Gohan tem dificuldade para acompanhar. Sem opção, o Kai Ancião decide que Goku deverá voltar à Terra(n)</desc>
+    <credits>
+      <director>Yasuhiro Nowatari</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Jôji Yanami</actor>
+      <actor>Mayumi Tanaka</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625002900 -0300" stop="20180625005900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Z Kai: Milagres Acontecem A Quem Goku Vai Se Unir? 1ª Temp.</title>
+    <desc lang="pt">Goku e Gohan planejam se fundir para finalizar o enfraquecido Super Buu. Mas, quando as coisas se complicam, Goku deverá recorrer a medidas desesperadas(n)</desc>
+    <credits>
+      <director>Yasuhiro Nowatari</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Jôji Yanami</actor>
+      <actor>Mayumi Tanaka</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625005900 -0300" stop="20180625012800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Z Kai: Invencível Vegetto, O Maior Guerreiro 1ª Temp.</title>
+    <desc lang="pt">O recém-formado Vegetto se ajusta ao seu novo corpo enquanto provoca Super Buu. O que deveria ser uma luta rápida logo se torna um combate feio quando Vegetto irrita a criatura arriscando o universo(n)</desc>
+    <credits>
+      <director>Yasuhiro Nowatari</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Jôji Yanami</actor>
+      <actor>Mayumi Tanaka</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625012800 -0300" stop="20180625015700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Z Kai: O Trunfo de Buu os Guerreiros São Absorvidos 1ª</title>
+    <desc lang="pt">Vegetto continua a enfrentar Super Buu e nenhum dos dois demonstra qualquer sinal de cansaço ou admite a derrota(n)</desc>
+    <credits>
+      <director>Yasuhiro Nowatari</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Jôji Yanami</actor>
+      <actor>Mayumi Tanaka</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625015700 -0300" stop="20180625020000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Z Kai: Salvando Gohan e os Outros A Missão de Goku e Vegeta</title>
+    <desc lang="pt">Vegeta e Goku desfazem a fusão dentro de Majin Buu. Eles conseguem evitar uma absorção completa e buscam uma forma de destruir o monstro do lado de dentro(n)</desc>
+    <credits>
+      <director>Yasuhiro Nowatari</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Jôji Yanami</actor>
+      <actor>Mayumi Tanaka</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625020000 -0300" stop="20180625021200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Caça ao Dólar</title>
+    <desc lang="pt">Clarêncio promove um jogo de(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625021200 -0300" stop="20180625022900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Zoológico</title>
+    <desc lang="pt">Clarêncio e Belson formam um casal bem estranho quando, durante uma excursão, ficam presos no zoológico por horas(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Ava Acres</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625022900 -0300" stop="20180625024100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Show de Rock</title>
+    <desc lang="pt">A banda de Chadão, a Dogmon, vai fazer um show pela primeira vez em anos, dando a Clarêncio e Mari uma chance de se divertir a valer(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Ava Acres</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E95</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625024100 -0300" stop="20180625025900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Policial Moody</title>
+    <desc lang="pt">Fatos do passado do Sr. Reese são revelados quando seu antigo parceiro na polícia, o oficial Moody, faz uma visita à Escola de Aberdale(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Ava Acres</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E99</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625025900 -0300" stop="20180625030000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <desc lang="pt">Desbrave o mundo da forma mais maravilhosa que existe: pelos olhos de Clarêncio, o garoto mais otimista, animado e adorável que vê o lado bom de todas as coisas e quer experimentar de tudo, porque tudo é incrível(n)</desc>
+    <credits>
+      <director>Skyler Page</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625030000 -0300" stop="20180625031200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: Pardo, O Filme</title>
+    <desc lang="pt">Pardo é escalado para um filme sobre um urso pardo Mas logo percebe que a representação do urso pardo na produção não é o que ele esperava(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E62</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625031200 -0300" stop="20180625033000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: O Amigo do Panda 2ª Temp</title>
+    <desc lang="pt">Panda usa um aplicativo para encontrar um amigo com quem tenha coisas em comum. Mas sua nova amizade logo sai do controle quando o amigo se mostra superpossessivo(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625033000 -0300" stop="20180625034100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: Caverna do Café</title>
+    <desc lang="pt">Ao descobrirem que Polar é um barista de primeira, os ursos decidem transformar sua caverna num café. Mas as coisas saem do controle quando Polar se envolve demais com a ideia e perde a cabeça(n)</desc>
+    <credits>
+      <director>Daniel Chong</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jim Ward</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Austin Rogers</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E66</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625034100 -0300" stop="20180625035900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: O Encontro do Panda 1ª Temp</title>
+    <desc lang="pt">Quando uma vendedora da feira (Lucy) aplica uma injeção em Panda após uma reação alérgica que ele teve, o urso se apaixona por ela(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Ellie Kemper</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Michael Robles</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625035900 -0300" stop="20180625040000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: Dia a Dia de Urso</title>
+    <desc lang="pt">É um dia qualquer para os ursos. Isso significa que Polar se envolveu numa briga com Roombra, que a vida de Panda virou de cabeça para baixo quando um rato entrou no seu quarto e que Pardo ficou preso numa árvore(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Ellie Kemper</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Demetri Martin</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625040000 -0300" stop="20180625043000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Vida e Aventuras de Juniper Lee</title>
+    <desc lang="pt">Manter a harmonia entre o mundo dos mortos e o mundo mágico é a tarefa não muito fácil da energética Juniper Lee(n)</desc>
+    <credits>
+      <director>Frank Squillace</director>
+      <actor>Vozes de Lara Jill Miller</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Amy Hill</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Candi Milo</actor>
+      <actor>Colleen O'Shaughnessey</actor>
+      <actor>Alexander Polinsky</actor>
+      <actor>Dee Bradley Baker ,Tara Strong</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625043000 -0300" stop="20180625044100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Mike, Lu e Og</title>
+    <desc lang="pt">A série conta a história sobre uma garota chamada Mike que nasceu na cidade de Nova Iorque e acaba deixando o seu lar como uma estudante de intercâmbio para uma ilha no meio do mar em busca de uma aventura mar afora(n)</desc>
+    <credits>
+      <director>Elena Rogeva</director>
+      <director>Aleksandr Tatarskiy</director>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625044100 -0300" stop="20180625045800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Mike, Lu e Og</title>
+    <desc lang="pt">A série conta a história sobre uma garota chamada Mike que nasceu na cidade de Nova Iorque e acaba deixando o seu lar como uma estudante de intercâmbio para uma ilha no meio do mar em busca de uma aventura mar afora(n)</desc>
+    <credits>
+      <director>Elena Rogeva</director>
+      <director>Aleksandr Tatarskiy</director>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625045800 -0300" stop="20180625050000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Mike, Lu e Og</title>
+    <desc lang="pt">A série conta a história sobre uma garota chamada Mike que nasceu na cidade de Nova Iorque e acaba deixando o seu lar como uma estudante de intercâmbio para uma ilha no meio do mar em busca de uma aventura mar afora(n)</desc>
+    <credits>
+      <director>Elena Rogeva</director>
+      <director>Aleksandr Tatarskiy</director>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625050000 -0300" stop="20180625050700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <desc lang="pt">Ami e Yumi são cantoras de rock que vivem aventuras incríveis Nas histórias, as personagens se apresentam em muitos lugares do planeta e fazem o maior sucesso entre os fãs(n)</desc>
+    <credits>
+      <director>Scott O'Brien</director>
+      <actor>Vozes de Keone Young</actor>
+      <actor>Ami Ohnuki</actor>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625050700 -0300" stop="20180625052000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <desc lang="pt">Ami e Yumi são cantoras de rock que vivem aventuras incríveis Nas histórias, as personagens se apresentam em muitos lugares do planeta e fazem o maior sucesso entre os fãs(n)</desc>
+    <credits>
+      <director>Scott O'Brien</director>
+      <actor>Vozes de Keone Young</actor>
+      <actor>Ami Ohnuki</actor>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625052000 -0300" stop="20180625053000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <desc lang="pt">Ami e Yumi são cantoras de rock que vivem aventuras incríveis Nas histórias, as personagens se apresentam em muitos lugares do planeta e fazem o maior sucesso entre os fãs(n)</desc>
+    <credits>
+      <director>Scott O'Brien</director>
+      <actor>Vozes de Keone Young</actor>
+      <actor>Ami Ohnuki</actor>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625053000 -0300" stop="20180625054100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Jonas, o Robô</title>
+    <desc lang="pt">Em uma cidade estabelecida na década de 1980, um robô jovem deve coletar dados sobre humanos e fazer o que puder para se encaixar entre eles(n)</desc>
+    <credits>
+      <director>Greg Miller</director>
+      <director>Mike Stern</director>
+      <actor>Vozes de Myles Jeffrey</actor>
+      <actor>Gary LeRoi Gray</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625054100 -0300" stop="20180625055900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">KND</title>
+    <desc lang="pt">Cinco extraordinárias crianças de 10 anos de idade, que são dedicadas a libertar todas as crianças das regras tirânicas dos adultos, formaram uma equipe secreta chamada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625055900 -0300" stop="20180625060000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">KND</title>
+    <desc lang="pt">Cinco extraordinárias crianças de 10 anos de idade, que são dedicadas a libertar todas as crianças das regras tirânicas dos adultos, formaram uma equipe secreta chamada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625060000 -0300" stop="20180625063000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Que Legal, Scooby-Doo: Anexo da Área 51</title>
+    <desc lang="pt">Daphne sempre sonhou em conhecer um extraterrestre, mas seu sonho se torna um pesadelo quando a gangue precisa solucionar o mistério de um assustador monstro alienígena e é levada à Área 53(n)</desc>
+    <credits>
+      <director>Zac Moncrief</director>
+      <actor>Vozes de Grey Griffin</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Frank Welker</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625063000 -0300" stop="20180625064100 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <desc lang="pt">Junte-se a Tom e Jerry enquanto os dois disputam território. Eles vão aprontar novas e hilárias travessuras, torcendo para não ser pegos(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+      <actor>Vozes de Richard Kind</actor>
+      <actor>Dana Hill</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625064100 -0300" stop="20180625065900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <desc lang="pt">Junte-se a Tom e Jerry enquanto os dois disputam território. Eles vão aprontar novas e hilárias travessuras, torcendo para não ser pegos(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+      <actor>Vozes de Richard Kind</actor>
+      <actor>Dana Hill</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625065900 -0300" stop="20180625070000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <desc lang="pt">Junte-se a Tom e Jerry enquanto os dois disputam território. Eles vão aprontar novas e hilárias travessuras, torcendo para não ser pegos(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+      <actor>Vozes de Richard Kind</actor>
+      <actor>Dana Hill</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625070000 -0300" stop="20180625071000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Masha e o Urso</title>
+    <desc lang="pt">Conheça Masha, uma garotinha curiosa e cheia de vida, e o Urso, seu parceiro de aventuras paciente e cuidadoso. Juntos, eles protagonizarão as histórias mais incríveis(n)</desc>
+    <credits>
+      <director>Oleg Kuzovkov</director>
+      <actor>Vozes de Alina Kukushkina</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Elsie Fisher</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625071000 -0300" stop="20180625071500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">The Happos Family</title>
+    <desc lang="pt">A Família Happos vive num recinto num parque de safári europeu. Pela manhã, o parque está aberto a visitantes. Mas quando o último carro corre para fora do parque e os portões são fechados, os Happos saltam para fora da lama(n)</desc>
+    <credits>
+      <director>Morgan Francis</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625071500 -0300" stop="20180625072000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oddbods</title>
+    <desc lang="pt">Bem-vindo ao mundo dos Oddbods Conheça Fuse, o mais esquentado, perigoso e, segundo ele, o mais machão do bando(n)</desc>
+    <credits>
+      <director>Sashim Parmanand</director>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625072000 -0300" stop="20180625073000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho 1ª Temp</title>
+    <desc lang="pt">Ao se mudar para um prédio misterioso, Mina conhece Bunnicula, um adorável coelho vampiro. O que ela nem imagina quando o adota como um bichinho de estimação é que Bunnicula possui poderes sobrenaturais(n)</desc>
+    <credits>
+      <director>Jessica Borutski</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625073000 -0300" stop="20180625074800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">As Meninas Superpoderosas: Lagostim</title>
+    <desc lang="pt">Durante um passeio num lago, docinho jura que irá capturar um crustáceo lendário(n)</desc>
+    <credits>
+      <director>Craig McCracken</director>
+      <actor>Vozes de Cathy Cavadini</actor>
+      <actor>Tara Strong</actor>
+      <actor>Elizabeth Daily</actor>
+      <actor>Tom Kane</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E50</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625074800 -0300" stop="20180625080000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">As Meninas Superpoderosas: A Vida Secreta de Florzinha Poderosa 1ª</title>
+    <desc lang="pt">Quando não é aceita no seu clube favorito do colégio, Florzinha começa a imaginar como seria sua vida se ela fizesse parte de outros clubes(n)</desc>
+    <credits>
+      <director>Bob Boyle</director>
+      <director>Nick Jennings</director>
+      <actor>Vozes de Tom Kane</actor>
+      <actor>Amanda Leighton</actor>
+      <actor>Natalie Palamides</actor>
+      <actor>Kristen Li</actor>
+      <actor>Eric Bauza</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625080000 -0300" stop="20180625081200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball: As Raízes</title>
+    <desc lang="pt">Os Wattersons tentam reconectar Darwin às suas raízes aquáticas(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S4 E92</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625081200 -0300" stop="20180625083000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball: O Feiticeiro</title>
+    <desc lang="pt">Gumball se torna um aprendiz de feiticeiro(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S5 E114</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625083000 -0300" stop="20180625084700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel: Capacete Mega Master 1ª Temp</title>
+    <desc lang="pt">Irmão do Jorel está determinado a aprender a andar de bicicleta sozinho e sem rodinhas. Preocupado com seu bem estar físico, Seu Edson constrói um capacete para protegê-lo de possíveis quedas e traumas(n)</desc>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625084700 -0300" stop="20180625090000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel: Gangorras da Revolução 1ª Temp</title>
+    <desc lang="pt">Irmão do Jorel se empolga com histórias revolucionárias do Seu Edson e vai para a escola determinado a lutar contra tudo o que está errado usando seu precioso Short Camuflado Série Especial Steve Magal(n)</desc>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625090000 -0300" stop="20180625091800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: Trabalho Com Cupcake</title>
+    <desc lang="pt">Quando o adorado computador dos ursos quebra, os três são obrigados a fazer algo que nunca haviam feito antes: arrumar um emprego(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Duncan Joiner</actor>
+      <actor>Bert Youn</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625091800 -0300" stop="20180625093000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Conheça Pardo, Panda e Polar, três irmãos ursos cujo maior objetivo na vida é se enturmar com os humanos… Se eles ganharem um sorvetinho no caminho melhor ainda(n)</desc>
+    <credits>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Charlyne Yi</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625093000 -0300" stop="20180625094800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Festa do Pijama do Belson</title>
+    <desc lang="pt">Belson convida Clarêncio e seus amigos para uma festa do pijama diferente: quem conseguir sobreviver às brincadeiras e sustos da noite levará para casa o velho videogame de Belson(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625094800 -0300" stop="20180625100000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Tarde do Dia da Lagartixa</title>
+    <desc lang="pt">Clarêncio e Sumo perseguem um lagarto incansavelmente enquanto Jeff faz de tudo para jogar o novo videogame espetacular de Belson(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625100000 -0300" stop="20180625100700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <desc lang="pt">Mônica, Cebolinha, Cascão, Magali e seus amiguinhos formam um grupo de crianças alegres e divertidas que aprontam muitas confusões e vivem grandes aventuras(n)</desc>
+    <credits>
+      <director>Maurício de Sousa</director>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625100700 -0300" stop="20180625102000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <desc lang="pt">Mônica, Cebolinha, Cascão, Magali e seus amiguinhos formam um grupo de crianças alegres e divertidas que aprontam muitas confusões e vivem grandes aventuras(n)</desc>
+    <credits>
+      <director>Maurício de Sousa</director>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625102000 -0300" stop="20180625103000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <desc lang="pt">Mônica, Cebolinha, Cascão, Magali e seus amiguinhos formam um grupo de crianças alegres e divertidas que aprontam muitas confusões e vivem grandes aventuras(n)</desc>
+    <credits>
+      <director>Maurício de Sousa</director>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625103000 -0300" stop="20180625104800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação: 40%, 40%, 20</title>
+    <desc lang="pt">A verdadeira força de Ciborgue não vem das suas partes robóticas, mas sim da sua música favorita(n)</desc>
+    <credits>
+      <director>Peter Rida Michail</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Peter Rida Michail</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625104800 -0300" stop="20180625110000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação: Jogo Apimentado</title>
+    <desc lang="pt">Cansados dos pratos insossos preparados por Robin, os outros Titãs decidem temperar a comida(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Peter Rida Michail</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625110000 -0300" stop="20180625111500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel: Mc Juju 2ª Temp</title>
+    <desc lang="pt">Irmão do Jorel acredita que Vovó Juju sabe cantar rap e quer que o mundo presencie esse acontecimento maravilhoso. Será que Vovó Juju deseja o mesmo(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625111500 -0300" stop="20180625113000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo 1ª Temp</title>
+    <desc lang="pt">Vamos acompanhar as desaventuras amalucadas de Oswaldo - um ingênuo e sonhador pinguim de 12 anos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625113000 -0300" stop="20180625114200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball: O Ninho</title>
+    <desc lang="pt">Moradores de Elmore estão desaparecidos e a causa dos desaparecimentos pode estar na cara de Gumball e Darwin(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S4 E28</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625114200 -0300" stop="20180625120000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Conheça os Wattersons: Mãe, Pai, Anais, Darwim e, é claro, Gumball Ele é um garoto de doze anos com uma quedinha por confusões e que tem um fantástico grupo de amigos estranhos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625120000 -0300" stop="20180625121700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625121700 -0300" stop="20180625123000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625123000 -0300" stop="20180625124200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Conheça os Wattersons: Mãe, Pai, Anais, Darwim e, é claro, Gumball Ele é um garoto de doze anos com uma quedinha por confusões e que tem um fantástico grupo de amigos estranhos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625124200 -0300" stop="20180625125900 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball: O Menu</title>
+    <desc lang="pt">Quando Ricardo ouve a lenda urbana sobre um hambúrguer da felicidade, ele fará de tudo para devorá-lo(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S5 E127</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625125900 -0300" stop="20180625130000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball: O Tio</title>
+    <desc lang="pt">Gumball e Darwin estão ansiosos para conhecer o famoso tio de Ocho(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S5 E128</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625130000 -0300" stop="20180625131800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Tá Chovendo Hambúrguer - A Série</title>
+    <desc lang="pt">Flint Lockwood é um adolescente que luta para ser um inventor reconhecido num universo onde não haja sardinhas... e talvez um dia ver suas invenções mudarem o mundo em vez de explodirem na sua cara(n)</desc>
+    <credits>
+      <director>Johnny Darrell</director>
+      <director>Andrew Duncan</director>
+      <director>Steven Garcia</director>
+      <director>Jos Humphrey</director>
+      <actor>Vozes de Clé Bennett</actor>
+      <actor>David Berni</actor>
+      <actor>Seán Cullen</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625131800 -0300" stop="20180625133000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Tá Chovendo Hambúrguer - A Série</title>
+    <desc lang="pt">Flint Lockwood é um adolescente que luta para ser um inventor reconhecido num universo onde não haja sardinhas... e talvez um dia ver suas invenções mudarem o mundo em vez de explodirem na sua cara(n)</desc>
+    <credits>
+      <director>Johnny Darrell</director>
+      <director>Andrew Duncan</director>
+      <director>Steven Garcia</director>
+      <director>Jos Humphrey</director>
+      <actor>Vozes de Clé Bennett</actor>
+      <actor>David Berni</actor>
+      <actor>Seán Cullen</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625133000 -0300" stop="20180625134800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Conheça Pardo, Panda e Polar, três irmãos ursos cujo maior objetivo na vida é se enturmar com os humanos… Se eles ganharem um sorvetinho no caminho melhor ainda(n)</desc>
+    <credits>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Charlyne Yi</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625134800 -0300" stop="20180625140000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: Charlie e a Cobra</title>
+    <desc lang="pt">Charlie (também conhecido como Pé Grande) é um sujeito solitário que, assim como os ursos, adoraria encontrar seu lugar no mundo. Num esforço para ser aceito, ele resolve fazer uma festa, mas acaba se embrenhando numa aventura(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyler Spears</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625140000 -0300" stop="20180625141500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">As Meninas Superpoderosas: Uma Flor de Estrela</title>
+    <desc lang="pt">Quando Lindinha ganha o papel principal na peça da escola, o ciúme de Florzinha começa a consumi-la(n)</desc>
+    <credits>
+      <director>Craig McCracken</director>
+      <actor>Vozes de Cathy Cavadini</actor>
+      <actor>Tara Strong</actor>
+      <actor>Elizabeth Daily</actor>
+      <actor>Tom Kane</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E52</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625141500 -0300" stop="20180625143000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universe: O Leão do Steven</title>
+    <desc lang="pt">Steven faz amizade com um leão mágico, mas não consegue entender por que o animal gosta dele(n)</desc>
+    <credits>
+      <actor>Voz de Zach Callison</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625143000 -0300" stop="20180625144800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação: 40%, 40%, 20</title>
+    <desc lang="pt">A verdadeira força de Ciborgue não vem das suas partes robóticas, mas sim da sua música favorita(n)</desc>
+    <credits>
+      <director>Peter Rida Michail</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Peter Rida Michail</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625144800 -0300" stop="20180625150000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação: Jogo Apimentado</title>
+    <desc lang="pt">Cansados dos pratos insossos preparados por Robin, os outros Titãs decidem temperar a comida(n)</desc>
+    <credits>
+      <director>Luke Cormican</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Peter Rida Michail</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625150000 -0300" stop="20180625153000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Z Kai: Mais Forte Ainda O Sonho Eterno de Goku</title>
+    <desc lang="pt">O torneio começa e Goku enfrenta um garoto chamado Uub. Ele possui um poder inacreditável e sua origem é surpreendente(n)</desc>
+    <credits>
+      <director>Yasuhiro Nowatari</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Jôji Yanami</actor>
+      <actor>Mayumi Tanaka</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S1 E169</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625153000 -0300" stop="20180625160000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Super</title>
+    <desc lang="pt">Após Goku derrotar Majin Buu, a Terra está em paz e nossos heróis levam vidas normais. Mas eles não podem se acomodar. Num lugar distante, o poderoso Deus da Destruição, Beerus, desperta para uma profecia(n)</desc>
+    <credits>
+      <director>Akira Toriyama</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Masakazu Morita</actor>
+      <actor>Naoki Tatsuta</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625160000 -0300" stop="20180625163000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Pokémon: Revelando A Lenda</title>
+    <desc lang="pt">Quando Ash vê os lendários Pokémons Solgaleo e Lunala num sonho, ele faz uma promessa. Mas, ao acordar, não consegue se lembrar do que prometeu Será que o estranho Pokémon Nebby o ajudará a refrescar sua memória(n)</desc>
+    <credits>
+      <actor>Vozes de Sarah Natochenny</actor>
+      <actor>Bill Rogers</actor>
+      <actor>Alyson Leigh Rosenfeld</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S21 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625163000 -0300" stop="20180625170000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Cine Cartoon</title>
+    <desc lang="pt">O Cartoon Network apresenta as histórias cinematográficas clássicas para a tela da TV. Agora você pode passar um dia tranquilo na frente da televisão, em sua poltrona favorita, curtindo estas histórias inesquecíveis(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625170000 -0300" stop="20180625171800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura</title>
+    <desc lang="pt">Os improváveis heróis Finn, o garoto com o chapéu legal, e Jake, o cachorro sábio, são parceiros em estranhas aventuras na Terra do Ooo. Melhores amigos, nossos heróis estão sempre no meio de aventuras(n)</desc>
+    <credits>
+      <actor>Vozes deTom Kenny</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Jeremy Shada</actor>
+      <actor>John Di Maggio</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180625171800 -0300" stop="20180625173000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Hora de Aventura: Brizinha</title>
+    <desc lang="pt">Com a ajuda de uma abelha chamada Breezy, Finn decide sair em busca de um novo amor(n)</desc>
+    <credits>
+      <director>Andres Salaff</director>
+      <actor>Vozes de John Di Maggio</actor>
+      <actor>Jeremy Shada</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Maria Bamford</actor>
+      <actor>Ashly Burch</actor>
+      <actor>Melinda Hill</actor>
+      <actor>Cole Sanchez</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180625173000 -0300" stop="20180625174800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <desc lang="pt">Desbrave o mundo da forma mais maravilhosa que existe: pelos olhos de Clarêncio, o garoto mais otimista, animado e adorável que vê o lado bom de todas as coisas e quer experimentar de tudo, porque tudo é incrível(n)</desc>
+    <credits>
+      <director>Skyler Page</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625174800 -0300" stop="20180625180000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Isolado 2ª Temp</title>
+    <desc lang="pt">Exausto depois de tantas aventuras, Clarêncio se esforça para relaxar e não fazer nada(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Spencer Rothbell</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Gunnar Sizemore</actor>
+      <actor>Kirk Thornton</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625180000 -0300" stop="20180625181500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Irmão do Jorel: Mc Juju 2ª Temp</title>
+    <desc lang="pt">Irmão do Jorel acredita que Vovó Juju sabe cantar rap e quer que o mundo presencie esse acontecimento maravilhoso. Será que Vovó Juju deseja o mesmo(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625181500 -0300" stop="20180625183000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo 1ª Temp</title>
+    <desc lang="pt">Vamos acompanhar as desaventuras amalucadas de Oswaldo - um ingênuo e sonhador pinguim de 12 anos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625183000 -0300" stop="20180625184800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Conheça Pardo, Panda e Polar, três irmãos ursos cujo maior objetivo na vida é se enturmar com os humanos… Se eles ganharem um sorvetinho no caminho melhor ainda(n)</desc>
+    <credits>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Charlyne Yi</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625184800 -0300" stop="20180625190000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso: Charlie e a Cobra</title>
+    <desc lang="pt">Charlie (também conhecido como Pé Grande) é um sujeito solitário que, assim como os ursos, adoraria encontrar seu lugar no mundo. Num esforço para ser aceito, ele resolve fazer uma festa, mas acaba se embrenhando numa aventura(n)</desc>
+    <credits>
+      <director>Manny Hernandez</director>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Edi Patterson</actor>
+      <actor>Kyler Spears</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625190000 -0300" stop="20180625191500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universe: Steven Contra Ametista</title>
+    <desc lang="pt">Steven e Ametista ficam competitivos enquanto treinam com Pérola(n)</desc>
+    <credits>
+      <director>Rebecca Sugar</director>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Michaela Dietz</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625191500 -0300" stop="20180625194500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Apenas um Show no Espaço: Camas Novas</title>
+    <desc lang="pt">Os meninos ganham camas novas(n)</desc>
+    <credits>
+      <director>Calvin Wong</director>
+      <actor>Vozes de J.G. Quintel</actor>
+      <actor>Sam Marin</actor>
+      <actor>William Salyers</actor>
+      <actor>Mark Hamill</actor>
+      <actor>Kate Micucci</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625194500 -0300" stop="20180625195600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625195600 -0300" stop="20180625200000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625200000 -0300" stop="20180625201500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Mundo de Greg: Pega-pega</title>
+    <desc lang="pt">Uma brincadeira perigosa de pega-pega causa confusão no riacho, tornando Kelsey o próximo(n)</desc>
+    <credits>
+      <director>Stu Livingston</director>
+      <actor>Vozes de Philip Solomon</actor>
+      <actor>Georgie Kidder</actor>
+      <actor>Michael Croner</actor>
+      <actor>Phil LaMarr</actor>
+      <actor>Dana Davis</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625201500 -0300" stop="20180625203000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Maçã e Cebola</title>
+    <desc lang="pt">Quando Falafel decide fazer as malas e deixar a cidade, Apple e Onion terão de convencê-lo a ficar(n)</desc>
+    <credits>
+      <director>George Gendi</director>
+      <actor>Vozes de Tasha Ames</actor>
+      <actor>Richard Ayoade</actor>
+      <actor>George Gendi</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Paul Scheer</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625203000 -0300" stop="20180625204500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Ursos Sem Curso</title>
+    <desc lang="pt">Conheça Pardo, Panda e Polar, três irmãos ursos cujo maior objetivo na vida é se enturmar com os humanos… Se eles ganharem um sorvetinho no caminho melhor ainda(n)</desc>
+    <credits>
+      <actor>Vozes de Eric Edelstein</actor>
+      <actor>Jason Lee</actor>
+      <actor>Demetri Martin</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Charlyne Yi</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625204500 -0300" stop="20180625210000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Outra Semana no Cartoon 4ª Temp</title>
+    <desc lang="pt">Neste incrível resumo semanal, com blocos tão divertidos quanto inteligentes, você verá os momentos mais extraordinários e hilários do dia a dia dos seus personagens mais queridos(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180625210000 -0300" stop="20180625211500 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Steven Universe</title>
+    <desc lang="pt">Steven é o famoso irmão mais novo de uma equipe mágica de guardiãs da humanidade, as CRYSTAL GEMS Steven sempre as acompanha em suas aventuras mágicas e encontra suas próprias formas de salvar o dia(n)</desc>
+    <credits>
+      <director>Rebecca Sugar</director>
+      <actor>Vozes de Estelle</actor>
+      <actor>Zach Callison</actor>
+      <actor>Michaela Dietz</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625211500 -0300" stop="20180625213000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões(n)</desc>
+    <credits>
+      <director>Lisa Schaffer</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625213000 -0300" stop="20180625214200 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <desc lang="pt">Conheça os Wattersons: Mãe, Pai, Anais, Darwim e, é claro, Gumball Ele é um garoto de doze anos com uma quedinha por confusões e que tem um fantástico grupo de amigos estranhos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625214200 -0300" stop="20180625220000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">O Incrível Mundo de Gumball: As Pétalas</title>
+    <desc lang="pt">Gumball e Darwin viram gurus de moda(n)</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <actor>Vozes de Logan Grove</actor>
+      <actor>Kwesi Boakye</actor>
+      <actor>Kyla Rae Kowalewski</actor>
+      <actor>Teresa Gallagher</actor>
+      <actor>Dan Russell</actor>
+      <actor>Jacob Hopkins</actor>
+      <actor>Terrell Ransom Jr</actor>
+      <actor>Tamia Cerrate</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S5 E130</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180625220000 -0300" stop="20180625221700 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Apenas um Show: Um Sonho Muito Doido</title>
+    <desc lang="pt">Mordecai e Rigby precisam pegar um voo para os EUA(n)</desc>
+    <credits>
+      <director>John Infantino</director>
+      <actor>Vozes de John Cygan</actor>
+      <actor>Sam Marin</actor>
+      <actor>J.G. Quintel</actor>
+      <actor>William Salyers</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Mark Hamill</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S6 E174</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625221700 -0300" stop="20180625223000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Apenas um Show: Pam Eu Sou</title>
+    <desc lang="pt">Benson está interessado numa cientista do Domo e resolve presenteá-la com um balde de frango para convidá-la para sair(n)</desc>
+    <credits>
+      <director>Calvin Wong</director>
+      <actor>Vozes de Linda Cardellini</actor>
+      <actor>Sam Marin</actor>
+      <actor>J.G. Quintel</actor>
+      <actor>William Salyers</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Rich Sommer</actor>
+      <actor>Janie Haddad Tompkins</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S7 E32</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625223000 -0300" stop="20180625224800 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Gato Perdido</title>
+    <desc lang="pt">Quando Chelsea deixa seu gatinho Crumbles sair de casa sem querer, ele desaparece Relutante em pedir ajuda, ela se empenha para encontrar o bichinho antes que alguém perceba que ele sumiu(n)</desc>
+    <credits>
+      <director>Nelson Boles</director>
+      <actor>Vozes de Skyler Page</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Ava Acres</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Katie Crown</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E96</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625224800 -0300" stop="20180625230000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Clarêncio, o Otimista: Clarêncio Wendle e o Olho de Coogan 2ª</title>
+    <desc lang="pt">Clarêncio e alguns outros alunos encontram o velho diário de Coogan, repleto de pistas que levam a um tesouro misterioso. Clarêncio lidera a equipe de caçadores de tesouro numa aventura pelos perigos de Aberdale(n)</desc>
+    <credits>
+      <director>David Ochs</director>
+      <director>Niki Yang</director>
+      <actor>Vozes de Spencer Rothbell</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Ivy Bishop</actor>
+      <actor>Damien C. Haas</actor>
+      <actor>Donovan Patton</actor>
+      <actor>Audrey Wasilewski</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625230000 -0300" stop="20180625233000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Dragon Ball Super</title>
+    <desc lang="pt">Após Goku derrotar Majin Buu, a Terra está em paz e nossos heróis levam vidas normais. Mas eles não podem se acomodar. Num lugar distante, o poderoso Deus da Destruição, Beerus, desperta para uma profecia(n)</desc>
+    <credits>
+      <director>Akira Toriyama</director>
+      <actor>Vozes de Masako Nozawa</actor>
+      <actor>Masakazu Morita</actor>
+      <actor>Naoki Tatsuta</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180625014000 -0300" stop="20180625031500 -0300" channel="Disney Channel HD">
+    <title lang="pt">Operação Big Hero</title>
+    <desc lang="pt">Hiro, um garoto prodigio de 13 anos, faz uma grande apresentação para poder ingressar no laboratório em que seu irmão trabalha. Mas quando um acidente acontece, ele conta com o inesperado conforto do robô inflável Baymax(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625031500 -0300" stop="20180625043000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Teen Beach 2</title>
+    <desc lang="pt">Depois de Brady e Mack conseguirem sair do filme "Onda sublime onda". Os personagens dos anos 60 são transportados para o mundo real como é mostrado na última cena de Teen Beach Movie(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625043000 -0300" stop="20180625050000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Pegadinha!</title>
+    <desc lang="pt">Quatro crianças aprontam pegadinhas, com pessoas que não tem a menor ideia do que está acontecendo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625050000 -0300" stop="20180625053000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Bizaardvark</title>
+    <desc lang="pt">Paige e Frankie têm 13 anos, e criam canções graciosas e divertidas e as transmitem através de vídeo clipes na Internet(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625053000 -0300" stop="20180625060000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Acampados</title>
+    <desc lang="pt">Emma, Ravi, e Zuri Ross saem de Nova York, e vão para um acampamento de verão em Maine, chamado Acampamento Kikiwaka, o lugar onde seus pais se conheceram quando adolescentes(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625060000 -0300" stop="20180625063000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Phineas e Ferb</title>
+    <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625063000 -0300" stop="20180625070000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20180625070000 -0300" stop="20180625071500 -0300" channel="Disney Channel HD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <desc lang="pt">Dos criadores de "Phineas e Ferb", a comédia acompanha Milo, a personificação da Lei de Murphy, onde qualquer coisa que pode dar errado vai dar errado(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625071500 -0300" stop="20180625073000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Gatastrófico</title>
+    <desc lang="pt">A história de uma amizade nada convencional entre um gato doméstico, preguiçoso e egoísta, e um alienígena emotivo e  ingênuo com macacão roxo de gato(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country>Reino Unido/Canadá/EUA</country>
+  </programme>
+  <programme start="20180625073000 -0300" stop="20180625080000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Marvel Spider-Man</title>
+    <desc lang="pt">Um adolescente inseguro mas corajoso e inteligente chamado Peter Parker, é picado por uma aranha radioativa e recebe poderes. Ele se torna um herói chamado Homem-Aranha(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625080000 -0300" stop="20180625083000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Ducktales - Os Caçadores De Aventuras</title>
+    <desc lang="pt">A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625083000 -0300" stop="20180625091500 -0300" channel="Disney Channel HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <desc lang="pt">Rapunzel enfrenta novos desafios para se adequar à realeza e ao novo relacionamento com José e os amigos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625091500 -0300" stop="20180625113000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Os Incríveis</title>
+    <desc lang="pt">Família de super-heróis aposentados tenta levar vida cotidiana, mas são forçados a retornar à ativa, adotando novas identidades, para salvar o mundo e impedir sua total destruição(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625113000 -0300" stop="20180625133000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Vida de Inseto</title>
+    <desc lang="pt">Todo ano, os gananciosos gafanhotos exigem uma parte da colheita das formigas. No entanto, a colheita é destruída. Os gafanhotos ameaçam atacar e as formigas são forçadas a pedir ajuda a outros insetos para enfrentá-los(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625133000 -0300" stop="20180625143000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Sou Luna</title>
+    <desc lang="pt">Luna conhece o encantador Matteo, mas não se aproxima do garoto, pois ele namora a arrogante Ámbar(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180625143000 -0300" stop="20180625150000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Agente K.C.</title>
+    <desc lang="pt">A série conta a história de KC Cooper (Zendaya), uma estudante do ensino médio que treina para seguir os passos dos pais como uma espiã secreta(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180625150000 -0300" stop="20180625153000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625153000 -0300" stop="20180625154500 -0300" channel="Disney Channel HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20180625154500 -0300" stop="20180625160000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Mickey Mouse</title>
+    <desc lang="pt">Os curtas Mickey Mouse são produzidos com base na animação 2D e contam com um visual inspirado nas raízes do ratinho e influências do estilo de Mickey nos anos 30, tudo isso sem deixar de ter um toque contemporâneo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625160000 -0300" stop="20180625163000 -0300" channel="Disney Channel HD">
+    <title lang="pt">A Irmã do Meio</title>
+    <desc lang="pt">A série conta a história da família Díaz, mas centra-se mais na vida de Harley Díaz, a quarta irmã dos 7 irmãos da Família Díaz(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625163000 -0300" stop="20180625170000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Ducktales - Os Caçadores De Aventuras</title>
+    <desc lang="pt">A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625170000 -0300" stop="20180625173000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Hotel Transylvania - A Série</title>
+    <desc lang="pt">Mavis quer demonstrar ao pai o seu talento na gestão do Hotel e, ao tentar colocar as suas ideias em prática, embarca com os amigos em novas aventuras(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625173000 -0300" stop="20180625180000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Andi Mack</title>
+    <desc lang="pt">Andi Mack é uma história contemporânea sobre uma garota que está tentando determinar as muitas maneiras incríveis de poder viver sua vida(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625180000 -0300" stop="20180625190000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Sou Luna</title>
+    <desc lang="pt">Luna conhece o encantador Matteo, mas não se aproxima do garoto, pois ele namora a arrogante Ámbar(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180625190000 -0300" stop="20180625193000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625193000 -0300" stop="20180625200000 -0300" channel="Disney Channel HD">
+    <title lang="pt">O11ZE</title>
+    <desc lang="pt">Siga a história dos Falcões Dourados rumo à vitória! Deixe rolar esta paixão(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20180625200000 -0300" stop="20180625203000 -0300" channel="Disney Channel HD">
+    <title lang="pt">A Casa da Raven</title>
+    <desc lang="pt">Raven e Chelsea são mães solteiras criando suas duas famílias em uma casa caótica, mas divertida, cheia de amigos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625203000 -0300" stop="20180625223000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Operação Cupido (1998)</title>
+    <desc lang="pt">O que acontece se alguém passou a vida toda desejando algo que não sabe que já possui? Hallie Parker e Annie James estão para descobrir(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625223000 -0300" stop="20180625233000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Sou Luna</title>
+    <desc lang="pt">Luna conhece o encantador Matteo, mas não se aproxima do garoto, pois ele namora a arrogante Ámbar(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180625233000 -0300" stop="20180626000000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Jessie</title>
+    <desc lang="pt">Entusiasmada com a possibilidade de se tornar independente e decidida a não se deixar intimidar por Nova York, Jessie aceita um trabalho como babá dos quatro filhos do próspero casal Morgan e Pandora: Emma, Ravi, Luke e Zuri(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625000600 -0300" stop="20180625003000 -0300" channel="Nick HD">
+    <title lang="pt">Sam &amp; Cat - S1E10</title>
+    <desc lang="pt">Sam, Dice e Goomer vão assistir a uma luta de MMA e deixam Cat em casa estudando. Ao retornarem, eles descobrem que a motocicleta de Sam está sumida e Cat não consegue se lembrar de nada sobre o dia(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625003000 -0300" stop="20180625010000 -0300" channel="Nick HD">
+    <title lang="pt">Sam &amp; Cat - S1E18</title>
+    <desc lang="pt">Sam e Cat são desafiadas a fazerem uma menina abandonar seu "pupo", um ursinho de pelúcia velho. Isso se mostra muito mias difícil do que elas pensavam(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625010000 -0300" stop="20180625013000 -0300" channel="Nick HD">
+    <title lang="pt">iCarly - S5E6</title>
+    <desc lang="pt">Spencer tem um novo inimigo - o irmão mais novo e perigoso de Chuck, o Chip! Enquanto isso, Freddie conserta a arma laser de brinquedo do Gibby e a deixa com um poder que ele nunca imaginou!(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625013000 -0300" stop="20180625020000 -0300" channel="Nick HD">
+    <title lang="pt">iCarly - S5E7</title>
+    <desc lang="pt">Quando Carly proíbe Costela de usar o loft por que ele nocauteou seu par de encontro com uma lançador de limão, ela fica proibida de ir ao Vitamina da hora(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625020000 -0300" stop="20180625023000 -0300" channel="Nick HD">
+    <title lang="pt">Papai em Apuros - S2E7</title>
+    <desc lang="pt">David e Janie fazem um teste para um comercial e Janie ganha o papel, mas David não tem uma "química de pai". agora ele precisa provar que é o melhor pai para Janie na vida real(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625023000 -0300" stop="20180625030000 -0300" channel="Nick HD">
+    <title lang="pt">Drake &amp; Josh - S4E11</title>
+    <desc lang="pt">A turma toda está reunida na casa de Drake e Josh para irem ao grande show de Drake, mas uma grande tempestade impede todos de saírem de casa(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625030000 -0300" stop="20180625033000 -0300" channel="Nick HD">
+    <title lang="pt">Drake &amp; Josh - S4E10</title>
+    <desc lang="pt">Drake ganha um salto de pára-quedas e marca o grande dia, embora seus pais sejam contra. Josh, bom irmão que é, tenta impedir o irmão mas acaba indo junto(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625033000 -0300" stop="20180625040000 -0300" channel="Nick HD">
+    <title lang="pt">Papai em Apuros - S2E5</title>
+    <desc lang="pt">Joe fica famoso após uma ação heróica, mas descobre que é difícil voltar a ser o Joe comum quando acabam seus 15 minutos de fama e David tenta mostrar para ele que ser comum pode ser divertido(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625040000 -0300" stop="20180625043000 -0300" channel="Nick HD">
+    <title lang="pt">A Família Hathaways - S2E13</title>
+    <desc lang="pt">Frankie ganha um teclado quando precisa aprender um instrumento para a escola, mas só o usa para irritar a família. Quando o teclado é destruído em uma madrugada, todos na casa se tornam suspeitos(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625043000 -0300" stop="20180625050000 -0300" channel="Nick HD">
+    <title lang="pt">Rabbids: A invasão - S3E11</title>
+    <desc lang="pt">Um gato fica preso na máquina de teletransporte. Professor Rabbid Maluco toma uma poção e se transforma num vilão(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180625050000 -0300" stop="20180625053000 -0300" channel="Nick HD">
+    <title lang="pt">Os Pinguins de Madagascar - S1E22</title>
+    <desc lang="pt">Burt, o elefante, pede aos pinguins para ajudá-lo a escapar. Eles aceitam o desafio e tiram o grandalhão de lá. Depois descobrem as intenções de Burt(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625053000 -0300" stop="20180625060000 -0300" channel="Nick HD">
+    <title lang="pt">O Edifício Wayne - S1E11</title>
+    <desc lang="pt">Olly organiza um jantar a muito aguardado entre a família dele e do ansi... Mas quando a espiã aparece inesperadamente no jantar, a equipe timbers deve ser mais esperta que os bandidos, sem que seus pais descubram(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625060000 -0300" stop="20180625063000 -0300" channel="Nick HD">
+    <title lang="pt">Os Padrinhos Mágicos - S1E75</title>
+    <desc lang="pt">Pappy está cuidando de Timmy e não gosta de modernismos. Timmy deseja que os dois entrem numa história em quadrinhos e eles vivem uma aventura(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625063000 -0300" stop="20180625070000 -0300" channel="Nick HD">
+    <title lang="pt">Breadwinners - S2E20</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625070000 -0300" stop="20180625073000 -0300" channel="Nick HD">
+    <title lang="pt">Rusty Rivets - S1E4</title>
+    <desc lang="pt">Com a ajuda de Rusty e dos Bits, Ruby se apresenta no show de talentos de Sprocketville. Quando Liam acidentalmente solta um balão gigante de hélio com ele dentro, Rusty e Ruby devem descobrir uma forma de levá-lo ao chão(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625073000 -0300" stop="20180625080000 -0300" channel="Nick HD">
+    <title lang="pt">The Loud House - S2E5</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625080000 -0300" stop="20180625083000 -0300" channel="Nick HD">
+    <title lang="pt">Sunny Day - S1E12</title>
+    <desc lang="pt">Doodle se interessa quer participar do Concurso do Pet Perfeito e, com o apoio da Sunny, Blair e Rox, ele exibe seu talento, mostra que sabe seguir ordens e vence difíceis obstáculos, que incluem a Lacey e a KC(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180625083000 -0300" stop="20180625090000 -0300" channel="Nick HD">
+    <title lang="pt">Shimmer &amp; Shine - S2E14</title>
+    <desc lang="pt">Leah toma conta dos pets levados enquanto Shimmer e Shine constroem secretamente novos quartos divertidos para eles(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625090000 -0300" stop="20180625093000 -0300" channel="Nick HD">
+    <title lang="pt">Nella, Uma Princesa Corajosa - S1E18</title>
+    <desc lang="pt">Quando Nella perde uma competição de cavaleiro, ela fica determinada a melhorar sua prática, e isso funciona de uma maneira espetacular(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Irlanda</country>
+  </programme>
+  <programme start="20180625093000 -0300" stop="20180625100000 -0300" channel="Nick HD">
+    <title lang="pt">Patrulha Canina - S3E20</title>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180625100000 -0300" stop="20180625103000 -0300" channel="Nick HD">
+    <title lang="pt">The Loud House - S1E2</title>
+    <desc lang="pt">Lincoln está cansado de suas irmãs se intrometendo em seus negócios até ele ser alvo de brincadeiras na escola(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625103000 -0300" stop="20180625110000 -0300" channel="Nick HD">
+    <title lang="pt">The Loud House - S2E7</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625110000 -0300" stop="20180625113000 -0300" channel="Nick HD">
+    <title lang="pt">Blaze and The Monster Machines - S2E4</title>
+    <desc lang="pt">Blaze e AJ estão jogando com seu amigo Zeg quando você soltá-lo em um gêiser jogando-o para unlejano poço de lama(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625113000 -0300" stop="20180625120000 -0300" channel="Nick HD">
+    <title lang="pt">Papaya Bull - S1E13</title>
+    <desc lang="pt">Para ajudar Cacupé a superar a perda de uma cigarra de estimação, Hermano e Sócrates contam para o menino a lendária história do velho Ermitão da ilha, que jamais aceitou se desapegar de seu boi da infância(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625120000 -0300" stop="20180625123000 -0300" channel="Nick HD">
+    <title lang="pt">Patrulha Canina - S4E10</title>
+    <desc lang="pt">A Docinho planeja roubar o trono real de Latimburgo para que ela possa governar como rainha(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180625123000 -0300" stop="20180625130000 -0300" channel="Nick HD">
+    <title lang="pt">Papaya Bull - S1E20</title>
+    <desc lang="pt">Dani quer participar do concurso Miss Ostra para entrar no Palácio Perolado e ter acesso a roupas e adereços de miss. Ela já passou da idade permitida(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625130000 -0300" stop="20180625133000 -0300" channel="Nick HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn - S3E23</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625133000 -0300" stop="20180625140000 -0300" channel="Nick HD">
+    <title lang="pt">School of Rock - S3E11</title>
+    <desc lang="pt">Uma nova aluna chega ao colégio: Jacqueline, uma estudante de intercâmbio. Todos querem ficar amigos dela, inclusive Tomika. Mas a vocalista sofre uma série de acidentes desastrados(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625140000 -0300" stop="20180625143000 -0300" channel="Nick HD">
+    <title lang="pt">Game Shakers - S2E15</title>
+    <desc lang="pt">Os Game Shakers transmitem ao vivo Hudson jogando para promover seus jogos, mas as coisas saem rapidamente de controle quando Hudson calça as botas a jato de Double G por diversão(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625143000 -0300" stop="20180625150000 -0300" channel="Nick HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada - S2E56</title>
+    <desc lang="pt">Todos da Fenda do Bikini estão participando de uma confusa corrida até o Polo Sul. Será que Bob e seus amigos conseguirão conquistar o 1° lugar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625150000 -0300" stop="20180625153000 -0300" channel="Nick HD">
+    <title lang="pt">Bunsen É Uma Fera! - S1E12</title>
+    <desc lang="pt">Amanda fica presa na Poltrona do Abraço de Bunsen e só poderá se soltar quando ela ficar feliz(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625153000 -0300" stop="20180625160000 -0300" channel="Nick HD">
+    <title lang="pt">Bunsen É Uma Fera! - S1E23</title>
+    <desc lang="pt">Mikey e Bunsen tentam ajudar seu herói (o entregador de sorvete da cidade), o Comandante Cone, a encontrar seu emprego dos sonhos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625160000 -0300" stop="20180625163000 -0300" channel="Nick HD">
+    <title lang="pt">Bunsen É Uma Fera! - S1E22</title>
+    <desc lang="pt">Mikey e Bunsen competem contra Amanda pela chance de ter seu próprio quadro no casal de notícias local(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625163000 -0300" stop="20180625170000 -0300" channel="Nick HD">
+    <title lang="pt">The Loud House - S2E21</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625170000 -0300" stop="20180625172400 -0300" channel="Nick HD">
+    <title lang="pt">The Loud House - S1E17</title>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625172400 -0300" stop="20180625174900 -0300" channel="Nick HD">
+    <title lang="pt">Henry Danger - S2E12</title>
+    <desc lang="pt">Quando um vídeo de Henry e Ray se transformam em Kid Danger e Capitão Man vaza, Henry precisa dar um jeito de recuperá-lo para que a identidade secreta deles não seja revelada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625174900 -0300" stop="20180625181300 -0300" channel="Nick HD">
+    <title lang="pt">Henry Danger - S2E13</title>
+    <desc lang="pt">Henry e Charlotte são transportados para um universo inverso onde o Ray e o Schwoz são malvados e querem destruir Piper. Eles precisam deter o Ray e o Schowz do mal e descobrir como voltar ao universo deles(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625181300 -0300" stop="20180625183800 -0300" channel="Nick HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn - S3E19</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625183800 -0300" stop="20180625190200 -0300" channel="Nick HD">
+    <title lang="pt">Game Shakers - S2E16</title>
+    <desc lang="pt">Babe e Kenzie estão desconfiadas da nova namorada caçadora de fama de Trip e decidem descobrir se ela está usando ele para se aproximar de Double G(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625190200 -0300" stop="20180625195400 -0300" channel="Nick HD">
+    <title lang="pt">Game Shakers - S1E17</title>
+    <desc lang="pt">Quando um rapper rival libera uma faixa sobre Double G, os Game Shakers convencem Dub a liberar uma faixa de resposta, ofendendo seu cão. A resposta enfurece o rapper e ele vem para enfrentar Double G(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625195400 -0300" stop="20180625201800 -0300" channel="Nick HD">
+    <title lang="pt">The Thundermans - S4E9</title>
+    <desc lang="pt">Preocupados com o treinamento Z-Force, Phoebe e Max percebem que se esqueceram de eventos familiares especiais. Para recompensar, Phoebe planeja um dia divertido em família(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625201800 -0300" stop="20180625203000 -0300" channel="Nick HD">
+    <title lang="pt">The Loud House - S1E2</title>
+    <desc lang="pt">Lincoln está cansado de suas irmãs se intrometendo em seus negócios até ele ser alvo de brincadeiras na escola(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625203000 -0300" stop="20180625210000 -0300" channel="Nick HD">
+    <title lang="pt">Henry Danger - S2E7</title>
+    <desc lang="pt">Com um convite ao restaurante mais exclusivo de Swellview, Henry decide trazer seu chefe, Ray, mas percebe que é mais complicado do que o esperado(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625210000 -0300" stop="20180625213000 -0300" channel="Nick HD">
+    <title lang="pt">School of Rock - S3E12</title>
+    <desc lang="pt">Chega a época de montar o espetáculo do colégio Travis e a peça escolhida é "Romeu e Julieta" - de novo. Os garotos não estão animados com a ideia, embora Freddy, que está apaixonado por Summer, sim(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625213000 -0300" stop="20180625220000 -0300" channel="Nick HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn - S2E1</title>
+    <desc lang="pt">Enquanto discutem sobre o trabalho de História, os quadrigêmeos descobrem que tiveram ancestrais interessantes, que os ensinam uma lição de valor(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625220000 -0300" stop="20180625223000 -0300" channel="Nick HD">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School - S1E23</title>
+    <desc lang="pt">Nossos amigos foram ao encontro de seus ídolos, mas quando os seus planos cuidadosamente definidos começam a se desvendar, eles percebem a importância da paciência e reconhecer os ídolos em sua vida cotidiana(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625223000 -0300" stop="20180625230000 -0300" channel="Nick HD">
+    <title lang="pt">iCarly - S4E1</title>
+    <desc lang="pt">Carly se intromete em uma briga para ajudar Sam e Freddie. Com isso, eles estão pedindo a ajuda de Carly para resolver todas as brigas. Como será que Carly vai se livrar dessa?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625230000 -0300" stop="20180625233000 -0300" channel="Nick HD">
+    <title lang="pt">Henry Danger - S3E6</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625233000 -0300" stop="20180626000000 -0300" channel="Nick HD">
+    <title lang="pt">The Thundermans - S1E8</title>
+    <desc lang="pt">Quando Phoebe se compromete com muitas atividades, Max a ajuda, criando um clone dela para que fique em dois lugares ao mesmo tempo. Mas o clone começa a causar confusão para a Phoebe, Max precisa salvar a reputação da irmã(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180625000000 -0300" stop="20180625010000 -0300" channel="SBT SP HD">
+    <title lang="pt">Poder em Foco</title>
+    <desc lang="pt">O Poder em Foco é um programa semanal de entrevistas do Jornalismo do SBT que conta, além do convidado principal, com mais três participantes a cada edição(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625010000 -0300" stop="20180625060000 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625060000 -0300" stop="20180625070000 -0300" channel="SBT SP HD">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625070000 -0300" stop="20180625073000 -0300" channel="SBT SP HD">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180625073000 -0300" stop="20180625080000 -0300" channel="SBT SP HD">
+    <title lang="pt">Mudança de Vida Hoje</title>
+    <desc lang="pt">Produção Independente cunho religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180625080000 -0300" stop="20180625083000 -0300" channel="SBT SP HD">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625083000 -0300" stop="20180625103000 -0300" channel="SBT SP HD">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180625103000 -0300" stop="20180625110000 -0300" channel="SBT SP HD">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625110000 -0300" stop="20180625113500 -0300" channel="SBT SP HD">
+    <title lang="pt">Bem na Hora</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625113500 -0300" stop="20180625121500 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT Interior 1ª Edição</title>
+    <date>2015</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625121500 -0300" stop="20180625130000 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT &amp; Você</title>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625130000 -0300" stop="20180625130500 -0300" channel="SBT SP HD">
+    <title lang="pt">Família em Cristo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180625130500 -0300" stop="20180625131500 -0300" channel="SBT SP HD">
+    <title lang="pt">Textil Abril</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625131500 -0300" stop="20180625141500 -0300" channel="SBT SP HD">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180625141500 -0300" stop="20180625150000 -0300" channel="SBT SP HD">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!(n)</desc>
+    <date>1971</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>México</country>
+  </programme>
+  <programme start="20180625150000 -0300" stop="20180625160000 -0300" channel="SBT SP HD">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625160000 -0300" stop="20180625170000 -0300" channel="SBT SP HD">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625170000 -0300" stop="20180625181500 -0300" channel="SBT SP HD">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>México</country>
+  </programme>
+  <programme start="20180625181500 -0300" stop="20180625192000 -0300" channel="SBT SP HD">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda e Eduardo cresceram juntos, unidos por um amor inocente. Ela é a filha caçula do fazendeiro Gonçalo Elizalde, dono de uma grande companhia leiteira(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>México</country>
+  </programme>
+  <programme start="20180625192000 -0300" stop="20180625194500 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT Interior 2ª Edição</title>
+    <date>2015</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625194500 -0300" stop="20180625203000 -0300" channel="SBT SP HD">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625203000 -0300" stop="20180625213000 -0300" channel="SBT SP HD">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625213000 -0300" stop="20180625221500 -0300" channel="SBT SP HD">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625221500 -0300" stop="20180625233000 -0300" channel="SBT SP HD">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180625233000 -0300" stop="20180626003000 -0300" channel="SBT SP HD">
+    <title lang="pt">Conexão Repórter</title>
+    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+</tv>
