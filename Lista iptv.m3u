@@ -1,0 +1,17 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo=""group-title="",Cartoon Network HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2479.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",Disney Channel HD
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",Disney XD HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",Nick HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5093.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",SBT SP HD
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
